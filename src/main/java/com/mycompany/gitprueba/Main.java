@@ -12,7 +12,9 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Hello Friend");
+        System.out.println("Hello Friend?");
         System.out.println("thats lame");
+        System.out.println("\n");
     }
     
 }
